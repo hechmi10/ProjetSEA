@@ -3,14 +3,14 @@
 - Réalisé par:Jaidene Hachemi
 - Supervisé par:Mme Sayahi Ikbel
 --------
-# - Compilation results...
+- # Compilation results...
 - Errors: 0
 - Warnings: 0
 - Output Filename: C:\Users\hechm\Documents\ProjetSEA.exe
 - Output Size: 188,8154296875 KiB
 - Compilation Time: 0,14s
 --------
-# - Execution results:
+- # Execution results:
 - Téléchargement terminé : file6.txt
 - Téléchargement terminé : file2.txt
 - Téléchargement terminé : file5.txt
