@@ -2,8 +2,8 @@
 - C'est un projet réalisé pour le télechargement simultané des fichiers en utilisant des requetes HTTP du bibliothéque libcurl
 - Réalisé par:Jaidene Hachemi
 - Supervisé par:Mme Sayahi Ikbel
-- Compilation results...
 --------
+- Compilation results...
 - Errors: 0
 - Warnings: 0
 - Output Filename: C:\Users\hechm\Documents\ProjetSEA.exe
